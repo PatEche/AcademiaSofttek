@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>AcademiaSofttek</h1> 
+<h1>ACADEMIA SOFTTEK</h1> 
   
 </div>
 <h3>Aceleracion Java + Springboot </h3>
