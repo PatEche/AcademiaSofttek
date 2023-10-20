@@ -9,6 +9,7 @@ public class Principal {
         misVehiculos1[1] = new VehiculoDeportivo(1200, "NEU836", "FERRARI", "TESTAROSA");
         misVehiculos1[2] = new VehiculoFurgoneta(2200, "ABC342", "RENAULT", "KANGOO");
         misVehiculos1[3] = new VehiculoTurismo(5, "AFB456", "RENAULT", "MASTER");
+        
 
         //Mediante un ForEach recorre mi array para poder imprimir sus datos.
         for (Vehiculo vehiculos : misVehiculos1) {
